@@ -9,7 +9,7 @@ CREATE TABLE "1".users
   updatedAt time with time zone not NULL,
   firstName character varying not NULL,
   lastName character varying not NULL,
-  address character varying not NULL,
+  address character varying not NULL
 )
 WITH (
   OIDS = FALSE
