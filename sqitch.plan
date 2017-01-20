@@ -2,7 +2,6 @@
 %project=postgrest-test
 %uri=https://github.com/sashafklein/postgrest-test
 
-v1schema 2014-10-06T04:00:12Z Sasha Klein <sasha@redshiftdigital.com> # Schema for v1 routes
-users [v1schema] 2014-10-06T04:10:51Z Sasha Klein <sasha@redshiftdigital.com> # Users table
-user_type [users] 2014-10-07T03:03:01Z Sasha Klein <sasha@redshiftdigital.com>
-ssl [v1schema] 2014-10-13T04:10:51Z Sasha Klein <sasha@redshiftdigital.com> # Enable SSL
+v1schema 2017-01-20T04:00:12Z Sasha Klein <sasha@redshiftdigital.com> # Schema for v1 routes
+users [v1schema] 2017-01-20T04:10:51Z Sasha Klein <sasha@redshiftdigital.com> # Users table
+ssl [v1schema] 2017-01-20T04:10:51Z Sasha Klein <sasha@redshiftdigital.com> # Enable SSL
